@@ -1,4 +1,4 @@
-Hi, I'm Kevin Song, a first year Electrical Engineering student
+Hi, I'm Kevin Song, a first year Computer Engineering student
 at the University of Waterloo.
 
 <!---
